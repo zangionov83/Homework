@@ -1,4 +1,4 @@
-my_string = input('Введите Ваше имя, фамилия и отчество (при наличии): ')
+my_string = input('Введите Ваше фамилия, имя и отчество (при наличии): ')
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
