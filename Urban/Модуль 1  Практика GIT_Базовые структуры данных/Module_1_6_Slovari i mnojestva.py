@@ -1,11 +1,11 @@
-my_dict = {'Alex' : 1983, 'Zaira' : 1987, 'Alina' : 2016, 'Sarmat' : 2022}
+my_dict = {'Alex': 1983, 'Zaira': 1987, 'Alina': 2016, 'Sarmat': 2022}
 print(my_dict)
 
 print(my_dict['Alex'])
 
 print(my_dict.get('Victor'))
 
-my_dict.update({'Lira' : 1960, 'Sergei' : 1982})
+my_dict.update({'Lira': 1960, 'Sergei': 1982})
 print(my_dict)
 
 print(my_dict.get('Lira'))
